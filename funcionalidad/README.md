@@ -35,5 +35,7 @@ Como hemos visto en la imagen, el buscador existente no proporciona información
 
 Por último, es necesario revisar los errores, no es conveniente que se muestren en la página, puede suscitar vulnerabilidades de la aplicación y si va a gestionar pagos y reservas, la aplicación debe ser totalmente segura y fiable.
 
+Adicionalmente, se hace uso de un mapa para conocer la ubicación del sitio. Se puede hacer un mapa interactivo que indique
+cómo se puede llegar al establecimiento.
 
 La web está desarrollada en Wordpress, y todos estos cambios son modificables.
