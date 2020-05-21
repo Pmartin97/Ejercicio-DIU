@@ -13,7 +13,7 @@ Para el trabajo final he seleccionado la aplicación web errant
 
 Antes de readaptar la página debemos hacer un análisis y ver los mayores problemas de diseño.
 
-## 1.1 Problemas de funcionalidad:
+## 1.1 Análisis de funcionalidad:
 
 Podemos obserevar que la página no tiene una funcionalidad de reserva o pago de reserva. El únicos elemento
 para realizar una reserva es el formulario para ponerse en contacto con la empresa y el idioma no corresponde
@@ -22,9 +22,9 @@ con el seleccionado en la página.
 Todo esto viene influido porque no tiene una gestión de usuarios, que no permite registrar los datos de los clientes.
 
 El buscador que ofrece la página no ofrece información sobre los datos que se pueden encontrar, resulta ambiguo.
-Realizando una búsqueda de un __coworker__ aparece una entrada de blog y ninguna información sobre la persona.
+Realizando una búsqueda de un _coworker_ aparece una entrada de blog y ninguna información sobre la persona.
 
-## 1.2 Problemas de diseño:
+## 1.2 Análisis de diseño:
 
 A simple vista podemos observar una sobrecarga de elementos en las distintas páginas de la web, esto dificulta la navegación,
 el interés del usuario y la accesibilidad.
@@ -32,7 +32,7 @@ La distribución de los elementos es coherente, aunque se utiliza demasiado espa
 por ejemplo, las imágenes o el mapa, utilizan un espacio enorme de la página y no aportan una idea importante.
 La fuente de texto tiene un tamaño correcto, aunque se podría mejorar con un mayor contraste.
 No hay elementos que faciliten una búsqueda entre los diferentes datos de la página, como por ejemplo un buscador sobre una cualidad
-de un __coworker__.
+de un _coworker_.
 El selector de idioma se repite en la pestaña de blogs y aparece una ventana de errores en algunas páginas.
 La imagen en 360º es una gran idea para que los usuarios se hagan una idea clara del lugar que van a alquilar.
 
@@ -59,6 +59,18 @@ los cambios de acuerdo con esta organización.
 
 # 3. Modificaciones de funcionalidad
 
+Los cambios de funcionalidad son en su mayoría adiciones al servicio que es capaz de prestar la aplicación.
+Una vez terminados los cambios más importantes, será necesario realziar un ajuste en la seguridad y fiabilidad de la web.
+[Modificaciones en profundidad]()
 
+Dado que la web está implementada con Wordpress, tendremos en cuenta la funcionalidad que nos ofrece.
+Independientemente del servicio comentado en el punto anterior, tener una gestión de usuarios permitiría tener un mejor orden de los datos y proporcionar nuevas funcionalidades a la web, por lo que añadiría esta funcionalidad.
+Con la gestión de usuarios en marcha, desarrollaría un sistema de reserva y pago para agilizar y automatizar los trámites.
+También implementaría un buscador con filtro en los aspectos de blog, _coworkers_ y en las promociones para facilitar la navegación a los potenciales usuarios.
+Por último, es necesario revisar los errores, no es conveniente que se muestren en la página, puede suscitar vulnerabilidades de la aplicación y si va a gestionar pagos y reservas, la aplicación debe ser totalmente segura y fiable.
 
 # 4. Modificaciones de diseño
+
+Las modificaciones de diseño se centrarán en reajustes de tamaño y posición de elementos.
+También haremos cambios en etiquetas de elementos que pueden ser ambiguos.
+[Modificaciones en profundidad]()
