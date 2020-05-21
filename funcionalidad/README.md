@@ -4,21 +4,21 @@ Podemos obserevar que la página no tiene una funcionalidad de reserva o pago de
 para realizar una reserva es el formulario para ponerse en contacto con la empresa y el idioma no corresponde
 con el seleccionado en la página.
 
-[Imagen reserva](Reserva.PNG)
+![Imagen reserva](Reserva.PNG)
 
 Todo esto viene influido porque no tiene una gestión de usuarios, que no permite registrar los datos de los clientes.
 
 El buscador que ofrece la página no ofrece información sobre los datos que se pueden encontrar, resulta ambiguo.
 Realizando una búsqueda de un coworker aparece una entrada de blog y ninguna información sobre la persona.
 
-[Imagen búsqueda](Búsqueda.PNG)
+![Imagen búsqueda](Búsqueda.PNG)
 
 # Modificaciones en la funcionalidad
 
 La premisa más importante que he aprendido es la de no hacer pensar al usuario, debemos facilitar el uso de la aplicación.
 Para hacernos una idea del uso de la aplicación, vamos a suponer que nuestro usuario es Alberto:
 
-[Imagen Alberto](Alberto.PNG)
+![Imagen Alberto](Alberto.PNG)
 
 ## Gestión de usuarios
 
