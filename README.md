@@ -1,7 +1,6 @@
 # Trabajo Final
 
-Para el trabajo final he seleccionado la aplicación web errant
-[Página de la empresa] (https://www.errant.es/es/)
+Para el trabajo final he seleccionado la aplicación ![erranT] (https://www.errant.es/es/)
 
 # Índice
 > 1 Análisis de la página actual
