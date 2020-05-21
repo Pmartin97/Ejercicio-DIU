@@ -72,12 +72,13 @@ Para visualizar mejor los cambios necesarios, se ha realizado un _Capture Grid_ 
 | Es una buena solución a empresas pequeñas que no tengan gran espacio de trabajo  | La paleta de colores y la fuente son accesibles  |
 | El horario del local es el horario laboral tradicional  | Algunos elementos tienen demasiado espacio sin aportar una información relevante  |
 |   | El aspecto en diferentes idiomas no es coherente  |
-|Preguntas a partir de la experiencia | Nuevas ideas |
+| **Preguntas a partir de la experiencia** | **Nuevas ideas** |
 | Alberto: ¿Tengo que enviar un correo para poder reservar?  | Un mapa que muestre la ruta al local  |
 | Alberto: ¿Hay algún coworker esperto en IA?  | Que los usuarios puedan añadir entradas de blog personales  |
 | Alberto: ¿No tienen más horas de apertura?  | Horarios sin cierre del local  |
 
 La empresa tiene una clara propuesta: alquilar un espacio de trabajo en un ambiente agradable.
+Las modificaciones que se realicen no deberán comprometer la propuesta de la empresa.
 
 
 # 3.1 Modificaiones de funcionalidad
