@@ -52,3 +52,7 @@ La web está desarrollada en Wordpress, y todos estos cambios son modificables.
 En una página web con servicio al público es inadmisible que no solo se produzcan errores, si no que puedan llegar a comprometer
 la seguridad del sitio. Por ello, es necesario realizar un análisis completo del sitio web y depurar y comprobar todos los posibles
 errores
+
+
+Para la realización de todos estos cambios es difícil dar un tiempo exacto, pero con aproximadamente una semana de trabajo
+podría implementarse todos los cambios sin problema, sin tener en cuenta los posibles errores que tenga el sitio web.
