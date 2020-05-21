@@ -4,10 +4,11 @@ Para el trabajo final he seleccionado la aplicación web errant
 [Página de la empresa] (https://www.errant.es/es/)
 
 # Índice
-> 1. Análisis de la página actual
-> 2. Coworking en la empresa
-> 3. Modificaciones de funcionalidad
-> 4. Modificaciones de diseño
+> 1 Análisis de la página actual
+> 2 Coworking en la empresa
+> 3 Modificaciones
+>> 3.1 Modificaciones de funcionalidad
+>> 3.2 Modificaciones de diseño
 
 # 1. Análisis de la página actual
 
@@ -41,7 +42,7 @@ El selector de idioma se repite en la pestaña de blogs y aparece una ventana de
 La imagen en 360º es una gran idea para que los usuarios se hagan una idea clara del lugar que van a alquilar.
 
 
-# 2. Coworking en la empresa
+# 2 Coworking en la empresa
 
 La empresa puede optar por dos tipos de servicio. Por un lado puede ofrecer un servicio más dinámico en el que cualquier persona 
 pueda alquilar el servicio de una manera limitada, por ejempo unas horas de un día específico. Por otro lado puede ofrecer un servicio
@@ -61,7 +62,25 @@ Cada opción tiene sus ventajas y desventajas:
 Despues de analizar la página, todo indica a que la empresa se enfoca en mayor medida a un servicio más familiar, por lo que enfocaremos
 los cambios de acuerdo con esta organización.
 
-# 3. Modificaciones de funcionalidad
+# 3 Modificaciones 
+
+Para visualizar mejor los cambios necesarios, se ha realizado un _Capture Grid_ que permita ver con más facilidad los cambios necesarios:
+
+| Interesante/Relevante  | Críticas constructivas  |
+| :---: | :---: |
+| Permite experimentar un ambiente de trabajo nuevo.  | La imagen 360º es una gran idea para visualizar el local.  |
+| Es una buena solución a empresas pequeñas que no tengan gran espacio de trabajo  | La paleta de colores y la fuente son accesibles  |
+| El horario del local es el horario laboral tradicional  | Algunos elementos tienen demasiado espacio sin aportar una información relevante  |
+|   | El aspecto en diferentes idiomas no es coherente  |
+|Preguntas a partir de la experiencia | Nuevas ideas |
+| Alberto: ¿Tengo que enviar un correo para poder reservar?  | Un mapa que muestre la ruta al local  |
+| Alberto: ¿Hay algún coworker esperto en IA?  | Que los usuarios puedan añadir entradas de blog personales  |
+| Alberto: ¿No tienen más horas de apertura?  | Horarios sin cierre del local  |
+
+La empresa tiene una clara propuesta: alquilar un espacio de trabajo en un ambiente agradable.
+
+
+# 3.1 Modificaiones de funcionalidad
 
 Los cambios de funcionalidad son en su mayoría adiciones al servicio que es capaz de prestar la aplicación.
 Una vez terminados los cambios más importantes, será necesario realziar un ajuste en la seguridad y fiabilidad de la web.
@@ -71,7 +90,7 @@ Una vez terminados los cambios más importantes, será necesario realziar un aju
 
 
 
-# 4. Modificaciones de diseño
+# 3.2 Modificaciones de diseño
 
 Las modificaciones de diseño se centrarán en reajustes de tamaño y posición de elementos.
 También haremos cambios en etiquetas de elementos que pueden ser ambiguos.
