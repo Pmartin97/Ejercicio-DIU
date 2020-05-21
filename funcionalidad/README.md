@@ -13,6 +13,13 @@ Realizando una búsqueda de un coworker aparece una entrada de blog y ninguna in
 
 ![Imagen búsqueda](Búsqueda.PNG)
 
+Podemos apreciar que existen errores tanto en el lado del cliente, viendo la consola de depuración de JavaScript, como en el lado del
+servidor, como podemos apreciar incluso en la visualización de la página:
+
+![Errores](Errores.PNG)
+
+Esto no solo afecta al rendimiento del sitio, si no a la visualización, que deja una mala impresión a los clientes que vean este error.
+
 # Modificaciones en la funcionalidad
 
 La premisa más importante que he aprendido es la de no hacer pensar al usuario, debemos facilitar el uso de la aplicación.
@@ -39,3 +46,9 @@ Adicionalmente, se hace uso de un mapa para conocer la ubicación del sitio. Se 
 cómo se puede llegar al establecimiento.
 
 La web está desarrollada en Wordpress, y todos estos cambios son modificables.
+
+## Errores
+ 
+En una página web con servicio al público es inadmisible que no solo se produzcan errores, si no que puedan llegar a comprometer
+la seguridad del sitio. Por ello, es necesario realizar un análisis completo del sitio web y depurar y comprobar todos los posibles
+errores
