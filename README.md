@@ -6,8 +6,8 @@ Para el trabajo final he seleccionado la aplicación [erranT](https://www.errant
 > 1 Análisis de la página actual
 > 2 Coworking en la empresa
 > 3 Modificaciones
->> 3.1 Modificaciones de funcionalidad
->> 3.2 Modificaciones de diseño
+> 3.1 Modificaciones de funcionalidad
+> 3.2 Modificaciones de diseño
 
 # 1. Análisis de la página actual
 
