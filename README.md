@@ -61,16 +61,16 @@ los cambios de acuerdo con esta organización.
 
 Los cambios de funcionalidad son en su mayoría adiciones al servicio que es capaz de prestar la aplicación.
 Una vez terminados los cambios más importantes, será necesario realziar un ajuste en la seguridad y fiabilidad de la web.
+
+
 [Modificaciones en profundidad]()
 
-Dado que la web está implementada con Wordpress, tendremos en cuenta la funcionalidad que nos ofrece.
-Independientemente del servicio comentado en el punto anterior, tener una gestión de usuarios permitiría tener un mejor orden de los datos y proporcionar nuevas funcionalidades a la web, por lo que añadiría esta funcionalidad.
-Con la gestión de usuarios en marcha, desarrollaría un sistema de reserva y pago para agilizar y automatizar los trámites.
-También implementaría un buscador con filtro en los aspectos de blog, _coworkers_ y en las promociones para facilitar la navegación a los potenciales usuarios.
-Por último, es necesario revisar los errores, no es conveniente que se muestren en la página, puede suscitar vulnerabilidades de la aplicación y si va a gestionar pagos y reservas, la aplicación debe ser totalmente segura y fiable.
+
 
 # 4. Modificaciones de diseño
 
 Las modificaciones de diseño se centrarán en reajustes de tamaño y posición de elementos.
 También haremos cambios en etiquetas de elementos que pueden ser ambiguos.
+
+
 [Modificaciones en profundidad]()
