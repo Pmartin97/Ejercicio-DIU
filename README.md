@@ -5,12 +5,12 @@ Para el trabajo final he seleccionado la aplicación [erranT](https://www.errant
 # Índice
 
 1. Análisis de la página actual
-    * Aálisis de la funcionalidad
-    * Análisis de l diseño
+    * 1.1 Aálisis de la funcionalidad
+    * 1.2 Análisis de l diseño
 2. Coworking en la empresa
 3. Modificaciones
-    * Modificaciones de funcionalidad
-    * Modificaciones de diseño
+    * 3.1 Modificaciones de funcionalidad
+    * 3.2 Modificaciones de diseño
 
 # 1. Análisis de la página actual
 
@@ -20,7 +20,7 @@ Para hacernos una idea del uso de la aplicación, vamos a suponer que nuestro us
 
 ![Imagen Alberto](Alberto.PNG)
 
-## 1.1. Análisis de funcionalidad:
+## 1.1 Análisis de funcionalidad:
 
 Podemos obserevar que la página no tiene una funcionalidad de reserva o pago de reserva. El únicos elemento
 para realizar una reserva es el formulario para ponerse en contacto con la empresa y el idioma no corresponde
@@ -31,7 +31,7 @@ Todo esto viene influido porque no tiene una gestión de usuarios, que no permit
 El buscador que ofrece la página no ofrece información sobre los datos que se pueden encontrar, resulta ambiguo.
 Realizando una búsqueda de un _coworker_ aparece una entrada de blog y ninguna información sobre la persona.
 
-## 1.2. Análisis de diseño:
+## 1.2 Análisis de diseño:
 
 A simple vista podemos observar una sobrecarga de elementos en las distintas páginas de la web, esto dificulta la navegación,
 el interés del usuario y la accesibilidad.
@@ -83,7 +83,7 @@ La empresa tiene una clara propuesta: alquilar un espacio de trabajo en un ambie
 Las modificaciones que se realicen no deberán comprometer la propuesta de la empresa.
 
 
-# 3.1. Modificaiones de funcionalidad
+# 3.1 Modificaiones de funcionalidad
 
 Los cambios de funcionalidad son en su mayoría adiciones al servicio que es capaz de prestar la aplicación.
 Una vez terminados los cambios más importantes, será necesario realziar un ajuste en la seguridad y fiabilidad de la web.
@@ -93,7 +93,7 @@ Una vez terminados los cambios más importantes, será necesario realziar un aju
 
 
 
-# 3.2. Modificaciones de diseño
+# 3.2 Modificaciones de diseño
 
 Las modificaciones de diseño se centrarán en reajustes de tamaño y posición de elementos.
 También haremos cambios en etiquetas de elementos que pueden ser ambiguos.
