@@ -34,10 +34,16 @@ clara y rápida de todo el sitio web. Un boceto del body low-fi:
 
 ![Home](Home.PNG)
 
+Cambiando la web con el diseño anterior, podemos cambiar la etiqueta de _La Pecera Comunica_ por una etiqueta más clara y que pueda
+atraer más al usuario, como por ejemplo _Promociona tu propio negocio_.
+
 En el blog y los coworkers no es necesario ajustar el tamaño si incluimos debajo de la cabecera el buscador mencionado, ya que
 la página tiene un buen nivel de accesibilidad, es mejor no realziar demasiados cambios. 
 En otro caso, podríamos utilizar el navegador de la derecha en el caso de los blogs para hacer uso del buscador y
 opcionalmente, cambiarlo al lado izquierdo. Este esquema lo podemos reutilizar para la página de coworkers para
 reutilización de código y sobre todo, mantener una coherencia general del sitio.
+
+Si se realizan las modificaciones de funcionalidad, será necesario añadir algunas etiquetas extra al header para permitir
+una navegabilidad sencilla, sin necesidad de alterar las que ya existen.
 
 Todos estos cambios no requieren de gran tiempo, con la herramienta de Wordpress no tomaría ni una semana a media jornada.
