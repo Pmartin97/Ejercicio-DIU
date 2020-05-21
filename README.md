@@ -12,6 +12,10 @@ Para el trabajo final he seleccionado la aplicación web errant
 # 1. Análisis de la página actual
 
 Antes de readaptar la página debemos hacer un análisis y ver los mayores problemas de diseño.
+La premisa más importante que he aprendido es la de no hacer pensar al usuario, debemos facilitar el uso de la aplicación.
+Para hacernos una idea del uso de la aplicación, vamos a suponer que nuestro usuario es Alberto:
+
+![Imagen Alberto](Alberto.PNG)
 
 ## 1.1 Análisis de funcionalidad:
 
@@ -63,7 +67,7 @@ Los cambios de funcionalidad son en su mayoría adiciones al servicio que es cap
 Una vez terminados los cambios más importantes, será necesario realziar un ajuste en la seguridad y fiabilidad de la web.
 
 
-[Modificaciones en profundidad]()
+[Modificaciones en profundidad](https://github.com/Pmartin97/Ejercicio-DIU/tree/master/funcionalidad)
 
 
 
@@ -73,4 +77,4 @@ Las modificaciones de diseño se centrarán en reajustes de tamaño y posición 
 También haremos cambios en etiquetas de elementos que pueden ser ambiguos.
 
 
-[Modificaciones en profundidad]()
+[Modificaciones en profundidad](https://github.com/Pmartin97/Ejercicio-DIU/tree/master/dise%C3%B1o)
