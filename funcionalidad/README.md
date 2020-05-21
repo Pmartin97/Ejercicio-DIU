@@ -22,10 +22,6 @@ Esto no solo afecta al rendimiento del sitio, si no a la visualización, que dej
 
 # Modificaciones en la funcionalidad
 
-La premisa más importante que he aprendido es la de no hacer pensar al usuario, debemos facilitar el uso de la aplicación.
-Para hacernos una idea del uso de la aplicación, vamos a suponer que nuestro usuario es Alberto:
-
-![Imagen Alberto](Alberto.PNG)
 
 ## Gestión de usuarios
 
