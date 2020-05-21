@@ -3,11 +3,12 @@
 Para el trabajo final he seleccionado la aplicación [erranT](https://www.errant.es/es/)
 
 # Índice
-> 1 Análisis de la página actual
-> 2 Coworking en la empresa
-> 3 Modificaciones
-> 3.1 Modificaciones de funcionalidad
-> 3.2 Modificaciones de diseño
+
+> 1. Análisis de la página actual
+> 2. Coworking en la empresa
+> 3. Modificaciones
+> 3.1. Modificaciones de funcionalidad
+> 3.2. Modificaciones de diseño
 
 # 1. Análisis de la página actual
 
@@ -17,7 +18,7 @@ Para hacernos una idea del uso de la aplicación, vamos a suponer que nuestro us
 
 ![Imagen Alberto](Alberto.PNG)
 
-## 1.1 Análisis de funcionalidad:
+## 1.1. Análisis de funcionalidad:
 
 Podemos obserevar que la página no tiene una funcionalidad de reserva o pago de reserva. El únicos elemento
 para realizar una reserva es el formulario para ponerse en contacto con la empresa y el idioma no corresponde
@@ -28,7 +29,7 @@ Todo esto viene influido porque no tiene una gestión de usuarios, que no permit
 El buscador que ofrece la página no ofrece información sobre los datos que se pueden encontrar, resulta ambiguo.
 Realizando una búsqueda de un _coworker_ aparece una entrada de blog y ninguna información sobre la persona.
 
-## 1.2 Análisis de diseño:
+## 1.2. Análisis de diseño:
 
 A simple vista podemos observar una sobrecarga de elementos en las distintas páginas de la web, esto dificulta la navegación,
 el interés del usuario y la accesibilidad.
@@ -41,7 +42,7 @@ El selector de idioma se repite en la pestaña de blogs y aparece una ventana de
 La imagen en 360º es una gran idea para que los usuarios se hagan una idea clara del lugar que van a alquilar.
 
 
-# 2 Coworking en la empresa
+# 2. Coworking en la empresa
 
 La empresa puede optar por dos tipos de servicio. Por un lado puede ofrecer un servicio más dinámico en el que cualquier persona 
 pueda alquilar el servicio de una manera limitada, por ejempo unas horas de un día específico. Por otro lado puede ofrecer un servicio
@@ -61,7 +62,7 @@ Cada opción tiene sus ventajas y desventajas:
 Despues de analizar la página, todo indica a que la empresa se enfoca en mayor medida a un servicio más familiar, por lo que enfocaremos
 los cambios de acuerdo con esta organización.
 
-# 3 Modificaciones 
+# 3. Modificaciones 
 
 Para visualizar mejor los cambios necesarios, se ha realizado un _Capture Grid_ que permita ver con más facilidad los cambios necesarios:
 
@@ -80,7 +81,7 @@ La empresa tiene una clara propuesta: alquilar un espacio de trabajo en un ambie
 Las modificaciones que se realicen no deberán comprometer la propuesta de la empresa.
 
 
-# 3.1 Modificaiones de funcionalidad
+# 3.1. Modificaiones de funcionalidad
 
 Los cambios de funcionalidad son en su mayoría adiciones al servicio que es capaz de prestar la aplicación.
 Una vez terminados los cambios más importantes, será necesario realziar un ajuste en la seguridad y fiabilidad de la web.
@@ -90,7 +91,7 @@ Una vez terminados los cambios más importantes, será necesario realziar un aju
 
 
 
-# 3.2 Modificaciones de diseño
+# 3.2. Modificaciones de diseño
 
 Las modificaciones de diseño se centrarán en reajustes de tamaño y posición de elementos.
 También haremos cambios en etiquetas de elementos que pueden ser ambiguos.
