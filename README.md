@@ -38,3 +38,27 @@ La imagen en 360º es una gran idea para que los usuarios se hagan una idea clar
 
 
 # 2. Coworking en la empresa
+
+La empresa puede optar por dos tipos de servicio. Por un lado puede ofrecer un servicio más dinámico en el que cualquier persona 
+pueda alquilar el servicio de una manera limitada, por ejempo unas horas de un día específico. Por otro lado puede ofrecer un servicio
+más familiar donde los clientes utilicen de forma más asidua el espacio alquilado.
+Cada opción tiene sus ventajas y desventajas:
+> 1. Servicio más dinámico:
+>> 1. Necesidad de una plataforma más potente.
+>> 2. Mayor número de clientes(con mayor número de clientes se puede subir ligeramente el precio debido a la demanda y las promociones tendrían más peticiones y visualizaciones).
+>> 3. Mayor diversidad de gente.
+>> 4. Menor unidad de los clientes.
+> 2. Servicio más familiar:
+>> 1. Necesidad de una plataforma más ligera.
+>> 2. Menor número de clientes(que puede suponer clientes más fieles a la compañía, lo que significa una ganancia estable).
+>> 3. Menor diversidad de gente.
+>> 4. Mayor unidad de los clientes.
+
+Despues de analizar la página, todo indica a que la empresa se enfoca en mayor medida a un servicio más familiar, por lo que enfocaremos
+los cambios de acuerdo con esta organización.
+
+# 3. Modificaciones de funcionalidad
+
+
+
+# 4. Modificaciones de diseño
