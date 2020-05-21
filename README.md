@@ -4,11 +4,13 @@ Para el trabajo final he seleccionado la aplicación [erranT](https://www.errant
 
 # Índice
 
-> 1. Análisis de la página actual
-> 2. Coworking en la empresa
-> 3. Modificaciones
->> 3.1. Modificaciones de funcionalidad
->> 3.2. Modificaciones de diseño
+ 1. Análisis de la página actual
+ 1.1. Aálisis de la funcionalidad
+ 1.2. Análisis de l diseño
+ 2. Coworking en la empresa
+ 3. Modificaciones
+ 3.1. Modificaciones de funcionalidad
+ 3.2. Modificaciones de diseño
 
 # 1. Análisis de la página actual
 
